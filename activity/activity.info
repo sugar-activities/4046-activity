@@ -1,0 +1,8 @@
+[Activity]
+name = Jigsaw Puzzle
+bundle_id = org.worldwideworkshop.olpc.JigsawPuzzle
+exec = sugar-activity JigsawPuzzleActivity.JigsawPuzzleActivity -s
+icon = activity-jigsawpuzzle
+activity_version = 9
+show_launcher = yes
+license = GPLv2+

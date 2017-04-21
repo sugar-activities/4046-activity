@@ -1,0 +1,62 @@
+9
+
+- Update translations
+
+8
+
+* Puzzle: image does not fit in small screen (eee 90x sized) #867
+* Activity does not pass parent window xid to ObjectChooser #1999
+* Added localization for ar
+* Updated localization for de, es, fr and it
+
+7
+
+* Add filter to ObjectChooser invoking
+
+6
+
+* #624 Several icons does not look nice in the ring 
+* Do not erase board on saving
+* Do not hang board after loading empty jobject
+* Set timer's value after loading
+* Do not multi shuffle
+* Init gthreads before using abiword
+* Update localization
+
+5
+
+* Fixed MANIFEST (morgs)
+* Translations added
+
+4
+
+* Added license field (#8411, #8029) (morgs)
+* Fixed MANIFEST (morgs)
+
+3
+
+* Updated copyright information
+* Added AUTHORS file
+
+2
+
+* Updated lesson plans.
+* Changed the way NotebookReader uses abiword Canvas, making open document look
+  consistent when opened multiple times.
+* Updated tube handling helper to match the new Presence API and removed local tubeconn.py.
+* Removed a little kungfu with soft links. This adds some files redundantly
+  across our activities, but makes activities self contained.
+
+1
+
+* Mesh support
+* My own image, from journal
+* Runtime dependency on MaMaMediaMenu (Creative Center) removed.
+* New icon.
+* Many bugfixes.
+
+0
+
+* First full release
+* Journal integration
+* Everything is working but the mesh support
